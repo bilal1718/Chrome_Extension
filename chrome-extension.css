@@ -1,0 +1,116 @@
+body{
+    min-width: 400px;
+}
+.form-container{
+    
+    padding: 40px 40px 0 0;
+    position: relative;
+}
+.form-container .form-icon{
+    color: #E6145E;
+    background-color: #fff;
+    font-size: 40px;
+    text-align: center;
+    line-height: 80px;
+    height: 80px;
+    width: 80px;
+    border: 3px solid #E6145E;
+    border-radius: 50% 50% 50% 0;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+.form-container .form-horizontal{
+    background: linear-gradient(#e7e7e7 25px,rgba(255,255,255,0.97) 25px);
+    padding: 40px 20px 20px;
+    box-shadow: 0 0 20px -5px rgba(0,0,0,0.3);
+    border-radius: 15px;
+}
+.form-container .title{
+    color: #222;
+    font-size: 27px;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    margin: 0 0 20px;
+}
+.form-container .title:after{
+    content: '';
+    background-color: #E6145E;
+    height: 3px;
+    width: 110px;
+    margin: 10px 0 0;
+    display: block;
+    clear: both;
+}
+.form-horizontal .form-group{
+    background-color: rgba(255,255,255,0.15);
+    margin: 0 0 15px;
+    border-bottom: 2px solid #e7e7e7;
+}
+.form-horizontal .input-icon{
+    color: #b5b5b5;
+    font-size: 20px;
+    text-align: center;
+    line-height: 35px;
+    height: 35px;
+    width: 30px;
+    margin: 0 0 0 4px;
+    vertical-align: top;
+    display: inline-block;
+}
+.form-horizontal .form-control{
+    color: #222;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    width: calc(100% - 40px);
+    height: 33px;
+    padding: 3px 10px 0 0;
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    display: inline-block;
+    transition: all 0.3s;
+}
+.form-horizontal textarea.form-control{
+    height: auto;
+    width: 100%;
+}
+.form-horizontal .form-control:focus{
+    box-shadow: none;
+    border: none;
+}
+.form-horizontal .form-control::placeholder{
+    color: #b5b5b5;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.form-horizontal .btn,.btnDelete{
+    color: #d1d1d1;
+    background-color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 15px 7px 20px;
+    margin: 10px 15px;
+    border: 2px solid #e7e7e7;
+    border-radius: 20px;
+    display: block;
+}
+.btnDelete{
+     margin:10px 50px;
+     background: white;
+     color: green;
+}
+.form-horizontal .btn:hover,.btnDelete:hover,
+.form-horizontal .btn:focus,.btnDelete:focus{
+    color: #E6145E;
+    background-color: #fff;
+    border: 2px solid #E6145E;
+}
