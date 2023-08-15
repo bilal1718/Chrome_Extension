@@ -11,7 +11,7 @@ This is Chrome Extension made in HTML,CSS and Javascript
 
 - 🤝 I’m looking for help with **Open source Projects**
 
-- 💬 Ask me about **React JS,Javascript,HTML,CSS,PHP,MySQL,Next JS**
+- 💬 Ask me about **React JS,Javascript,HTML,CSS,PHP,MySQL,Next JS,Tailwind CSS**
 
 - 📫 How to reach me **muhbil1718@gmail.com**
 
