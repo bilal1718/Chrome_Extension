@@ -7,7 +7,7 @@ This is Chrome Extension made in HTML,CSS and Javascript
 
 - 🔭 I’m currently working on **Mobile App**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **React JS**
 
 - 🤝 I’m looking for help with **Open source Projects**
 
