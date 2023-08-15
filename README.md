@@ -5,7 +5,7 @@ This is Chrome Extension made in HTML,CSS and Javascript
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal1718&label=Profile%20views&color=0e75b6&style=flat" alt="bilal1718" /> </p>
 
-- 🔭 I’m currently working on **Mobile App**
+- 🔭 I’m currently working on **Web App**
 
 - 🌱 I’m currently learning **React JS**
 
